@@ -1,0 +1,4 @@
+Expresso,4.50,500
+Cappuccino,8.00,350
+Bolo de Cenoura,10.50,120
+Pao de Queijo,5.00,800
