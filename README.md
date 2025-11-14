@@ -64,7 +64,7 @@ Pizza, 5, 25.50
 Café, 15, 5.00
 ```
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
 Gustavo Soares Almeida - [GitHub](https://github.com/GustaGol0)
 Guilherme Piques;
