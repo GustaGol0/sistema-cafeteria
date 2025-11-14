@@ -67,10 +67,10 @@ Café, 15, 5.00
 ## 👨‍💻 Autor
 
 Gustavo Soares Almeida - [GitHub](https://github.com/GustaGol0)
-Guilherme Piques
-Rafaella Rodrigues
-Fellipe Duarte Santos
-Enzo Gabriel Santana da Silva
+Guilherme Piques;
+Rafaella Rodrigues;
+Fellipe Duarte Santos;
+Enzo Gabriel Santana da Silva.
 
 ## 📄 Licença
 
